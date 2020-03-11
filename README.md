@@ -5,3 +5,4 @@ It is just a simple calculator which can
 * Multiply
 * Divide
 * Exponentiate
+*Made by me in 2018*
