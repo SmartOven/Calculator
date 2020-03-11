@@ -4,5 +4,5 @@ It is just a simple calculator which can
 * Subtruct
 * Multiply
 * Divide
-* Exponentiate
+* Exponentiate  
 *Made by me in 2018*
