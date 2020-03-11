@@ -1,5 +1,5 @@
 # Calculator on Python
-It is just simple calculator which can
+It is just a simple calculator which can
 * Add
 * Subtruct
 * Multiply
